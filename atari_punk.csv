@@ -1,6 +1,6 @@
 Reference, Quantity, Value, Footprint, Datasheet,Buy
 C1 C3 ,2,100n,Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm,,https://es.aliexpress.com/item/32375622271.html
-C2 ,1,10u,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,,https://es.aliexpress.com/item/32913414257.html
+C2 ,1,10u,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,,https://es.aliexpress.com/item/32895970824.html
 J1 J2 ,2,Conn_01x02_MountingPin,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,,https://es.aliexpress.com/item/32902727085.html
 R1 R4 ,2,500K,Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,,https://www.aliexpress.com/item/32803165530.html
 R2 ,1,1K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,https://es.aliexpress.com/item/32830646527.html
