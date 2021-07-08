@@ -41,7 +41,7 @@ U 1 1 5FE483A4
 P 3000 1700
 F 0 "R1" H 3128 1746 50  0000 L CNN
 F 1 "500K" H 3128 1655 50  0000 L CNN
-F 2 "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" V 2930 1700 50  0001 C CNN
+F 2 "eduardofilo_footprints:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_mod" V 2930 1700 50  0001 C CNN
 F 3 "~" H 3000 1700 50  0001 C CNN
 	1    3000 1700
 	1    0    0    -1  
@@ -198,7 +198,7 @@ U 1 1 5FE4885F
 P 5900 1700
 F 0 "R4" H 6028 1746 50  0000 L CNN
 F 1 "500K" H 6028 1655 50  0000 L CNN
-F 2 "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" V 5830 1700 50  0001 C CNN
+F 2 "eduardofilo_footprints:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_mod" V 5830 1700 50  0001 C CNN
 F 3 "~" H 5900 1700 50  0001 C CNN
 	1    5900 1700
 	1    0    0    -1  
